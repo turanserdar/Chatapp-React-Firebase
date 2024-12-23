@@ -46,7 +46,7 @@ For any inquiries, suggestions, or feedback, feel free to reach out:
 
 Below is a snapshot of the app interface:
 
-![ChatApp Preview](https://raw.githubusercontent.com/turanserdar/Chatapp-React-Firebase/main/chatapp_preview.gif)
+![ChatApp Preview](https://raw.githubusercontent.com/turanserdar/Chatapp-React-Firebase/main/Chatapp.gif)
 
 ---
 
